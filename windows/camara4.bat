@@ -1,0 +1,1 @@
+ffmpeg -i rtsp://admin:12345abc@192.168.1.214:554/Streaming/Channels/601 -fflags flush_packets -max_delay 5 -flags -global_header -hls_time 5 -hls_list_size 2 -hls_flags delete_segments -vcodec copy -y video4.m3u8
