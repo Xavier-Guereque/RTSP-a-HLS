@@ -14,4 +14,4 @@ En esta carpeta se encuentran los archivos .bat con las instrucciones para conve
 En esta carpeta se encuentran los archivos .sh con las instrucciones para convertir el flujo RTSP de una cámara ip a flujo HLS, el resultado es un archivo <b>.m3u8</b>
 <br><br><b>Importante</b>: El archivo visualizador de videos debe correr en un servidor web.
 <br><br>
-<b>Video demostrativo</b>: https://www.youtube.com/watch?v=eZUqowKX3GA
+<h3>Video demostrativo</h3>: <a href="https://www.youtube.com/watch?v=eZUqowKX3GA" target="_blanck">https://www.youtube.com/watch?v=eZUqowKX3GA</a>
