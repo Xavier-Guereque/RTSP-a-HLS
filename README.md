@@ -8,7 +8,8 @@ FFMPEG se encuentra disponible gratuitamente para sistemas operativos Windows, L
 <br>
 <h3>Windows</h3>
 En esta carpeta se encuentran los archivos .bat con las instrucciones para convertir el flujo RTSP de una cámara ip a flujo HLS, el resultado es un archivo <b>.m3u8</b>
-<br><br><b>Importante</b>: El archivo visualizador de videos debe correr en un servidor web. En este ejemplo utilicé XAMP.
+<br><br><b>Importante</b>: El archivo visualizador de videos debe correr en un servidor web. Para windows se puede utilizar XAMPP, LAMPP, WAMPP.
 
 <h3>Linux / Mac</h3>
-
+En esta carpeta se encuentran los archivos .sh con las instrucciones para convertir el flujo RTSP de una cámara ip a flujo HLS, el resultado es un archivo <b>.m3u8</b>
+<br><br><b>Importante</b>: El archivo visualizador de videos debe correr en un servidor web.
