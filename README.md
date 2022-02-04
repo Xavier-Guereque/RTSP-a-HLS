@@ -13,3 +13,5 @@ En esta carpeta se encuentran los archivos .bat con las instrucciones para conve
 <h3>Linux / Mac</h3>
 En esta carpeta se encuentran los archivos .sh con las instrucciones para convertir el flujo RTSP de una cámara ip a flujo HLS, el resultado es un archivo <b>.m3u8</b>
 <br><br><b>Importante</b>: El archivo visualizador de videos debe correr en un servidor web.
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eZUqowKX3GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
