@@ -1,4 +1,4 @@
-# rtspToHlc
+# RTSP a HLS
  
 Este proyecto demostrativo muesta cómo mostrar el video de una cámara IP en un navegador web.
 <br>
