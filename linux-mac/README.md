@@ -1,4 +1,4 @@
-<h3>Windows</h3>
+<h3>Linux / Mac</h3>
 Ejecute <b>inicio.sh</b> para iniciar la conversión del video junto a <b>camara*.sh</b> y los binarios de <b>ffmpeg</b>
 <br>
 <b>index.html</b> contiene el código demostrativo para mostrar los videos en el navegador usando el reproductor de video de <b>vjs.zencdn.net</b>
